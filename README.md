@@ -6,7 +6,8 @@ PlanMyTrip, a travel itinerary app, is beta testing and is recommending a few ch
 ## Recources
 - Data Source: WeatherPy_Database.csv, WeatherPy_vacation.csv
 - Software: Jupyter Notebook 6.4.8, Python 3.7.13, Pandas 1.3.5, 
-- Library: Pandas Library, CitiPy, Python Requests, Directions API in Google Cloud Platform
+- Library: Pandas Library, CitiPy, Python Requests
+- API: Google Maps Directions API in Google Cloud Platform
 
 ## Results
 
