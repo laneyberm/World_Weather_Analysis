@@ -5,9 +5,10 @@ PlanMyTrip, a travel itinerary app, is beta testing and is recommending a few ch
 
 ## Recources
 - Data Source: WeatherPy_Database.csv, WeatherPy_vacation.csv
-- Software: Jupyter Notebook 6.4.8, Python 3.7.13, Pandas 1.3.5, Pandas Library, CitiPy, Python Requests, APIs
+- Software: Jupyter Notebook 6.4.8, Python 3.7.13, Pandas 1.3.5, 
+- Library: Pandas Library, CitiPy, Python Requests, Directions API in Google Cloud Platform
 
-## Process
+## Results
 
 To retrieve weather data, we completed the following:
 - Generate a set of 2,000 random latitudes and longitudes
@@ -26,5 +27,7 @@ To create a travel itinerary map, we completed the following:
 - Create a marker layer map with a pop-up marker for each city on the itinerary.
 
 This is an example of 4 locations in Spain for the travel itinerary.
-<img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png.png" width="600">
-<img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png.png" width="600">
+<img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map.png" width="600">
+<img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600">
+
+## Summary
