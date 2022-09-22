@@ -31,3 +31,4 @@ This is an example of 4 locations in Spain for the travel itinerary.
 <img src="https://github.com/laneyberm/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png" width="600">
 
 ## Summary
+After completing the testing on PlanMyTrip, all of the functions work. Users will be able to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels and create a travel itinerary including a travel route. 
