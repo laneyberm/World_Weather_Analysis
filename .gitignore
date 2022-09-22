@@ -1,11 +1,16 @@
 # Adding config.py file.
 config.py
+Vacation_Itinerary/config.py
+Vacation_Search/config.py
+Weather_Database/config.py
 
 # Adding additional files
 API_practice.ipynb
 random_numbers.ipynb
 try-except.ipynb
 Linear Regression.ipynb
+Google_Nearby_Search.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
