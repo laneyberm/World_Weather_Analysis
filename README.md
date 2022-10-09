@@ -3,7 +3,7 @@
 ## Overview
 PlanMyTrip, a travel itinerary app, is beta testing and is recommending a few changes to take the app to the next level. Specifically, they recommend adding the weather description to the weather data. Then, we'll have the beta testers use input statements to filter the data for their weather preferences, which will be used to identify potential travel destinations and nearby hotels. From the list of potential travel destinations, the beta tester will choose four cities to create a travel itinerary. Finally, using the Google Maps Directions API, we will create a travel route between the four cities as well as a marker layer map.
 
-## Recources
+## Resources
 - Data Source: WeatherPy_Database.csv, WeatherPy_vacation.csv
 - Software: Jupyter Notebook 6.4.8, Python 3.7.13, Pandas 1.3.5, 
 - Library: Pandas Library, CitiPy, Python Requests
